@@ -1,10 +1,8 @@
-- src
-- include
-- doc
-- resoruce
+Agenda : Basic Overview of Project Discussion
 
 step 1:
  basic client - server application
+    Client-Srever -> same machine
 
 
 step 2:
@@ -21,7 +19,10 @@ step 4:
 
 
 ToDo:
+    
     Pravin : Basic working modal client-server
+            -> ping
+            -> sending
     X : Data should be taken from sir , create data base of it
         class1
             -R1.csv
@@ -36,12 +37,10 @@ ToDo:
         ....
         classn
     X : Overview of project
+    
     X : Server Development
     X : Client Development
         - Which data struct we are going to save
         - how we are going to process it
         - how we are going to present (GUI / Command line)
-
-
-
-
+    

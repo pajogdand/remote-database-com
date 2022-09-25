@@ -1,0 +1,27 @@
+Agenda : To track the progress of Project
+
+
+ToDo:
+    
+    Pravin : Basic working modal client-server and push it to git
+            -> ping
+            -> sending
+           : Guideline :
+                    1 : How to create frok and push changes, approve, merge
+                    2 : Codinng : MISRA
+                    3 : git commnds          
+
+    Kumar :
+            -> Share the book
+            -> Some high level arch
+                - what , how and why?
+    
+    Lahu :
+           -> Shaping end goal
+           -> Setting up meeting with YS sir
+
+
+IMP NOTES:
+    - Linux Sytem Programming Ref: Lecture No : 140 , 141 , 142 , 143 ... 
+    - Krrisk : Chapter Number : 56 to 61
+    - 

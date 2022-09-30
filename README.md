@@ -1,5 +1,4 @@
 # How to execute the project
-  Clone the project
   - git clone SSH_OR_HSTTP_URL
   - cd src
   - make
